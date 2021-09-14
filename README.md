@@ -2,6 +2,7 @@
 - 👀 I’m interested in proooograming and electronic circuits
 - 🌱 I’m currently learning electronic engineering at TELL AVIV unervirsity 
 - 📫 How to reach me : baselmansour2702@gmail.com
+- Linkedin: https://www.linkedin.com/in/basel-mansour-338191220/ 
 
 programing languages I know:
 1. c#
