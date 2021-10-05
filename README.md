@@ -9,12 +9,21 @@ programing languages I know:
 2. C
 3. C++
 4. python
-5.java in a couple of days 
+5.git/terminal
+6.SQL
+7.MATLAB
 
 other usefull aplication I work with:
 1. MATLAB
 2. Logisim
 3. Pspice
+4. jupyter Notebook and jupyter Lab
+5. Visual studio and visual studio code
+6. Code Blocks
+7. Block Diagram
+8. Anaconda
+9. Microsoft office
+10. Spyder/Wing -Python IDE's
 
 <!---
 BaselDOS/BaselDOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
