@@ -12,6 +12,9 @@ programing languages I know:
 5.git/terminal
 6.SQL
 7.MATLAB
+8. VHDL
+9. Verilog
+10. TCL
 
 other usefull aplication I work with:
 1. MATLAB
@@ -24,6 +27,9 @@ other usefull aplication I work with:
 8. Anaconda
 9. Microsoft office
 10. Spyder/Wing -Python IDE's
+11. xilinx
+12. synopsis tools
+13. virtuoso
 
 <!---
 BaselDOS/BaselDOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
