@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Basel Mansour -nickname: DOS- and I'm 25 years old
+- 👋 Hi, I’m Basel Mansour and I'm 28 years old
 - 👀 I’m interested in proooograming and electronic circuits
 - 🌱 I’m currently learning electronic engineering at TELL AVIV unervirsity 
 - 📫 How to reach me : baselmansour2702@gmail.com
